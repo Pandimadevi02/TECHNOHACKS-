@@ -1,2 +1,2 @@
-# TECHNOHACKS-
+# calculator-
 web development task
